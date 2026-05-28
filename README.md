@@ -11,19 +11,19 @@ Detect variations across countries, genders, age groups, and cancer stages.
 Analyze survival distributions and treatment costs.
 Study correlations between risk factors and cancer severity.
 # Key EDA Tasks
-Univariate Analysis
-Bivariate & Multivariate Analysis
-Correlation Heatmaps
-Distribution Plots
-Boxplots & Barplots
-Outlier Detection
-Missing Value Analysis
+Univariate Analysis,
+Bivariate & Multivariate Analysis,
+Correlation Heatmaps,
+Distribution Plots,
+Boxplots & Barplots,
+Outlier Detection,
+Missing Value Analysis.
 
 # Inferential Statistics
-Determine the relationship between risk factors and cancer severity.
-Analyze the proportion of early-stage diagnoses by cancer type.
-Identify key predictors of cancer severity and survival years.
-Explore the economic burden of cancer treatment across different demographics and countries.
-Assess whether higher treatment cost is associated with longer survival.
-Evaluate if higher cancer stages lead to greater treatment costs and reduced survival years.
+Determine the relationship between risk factors and cancer severity <br>
+Analyze the proportion of early-stage diagnoses by cancer type <br>
+Identify key predictors of cancer severity and survival years <br>
+Explore the economic burden of cancer treatment across different demographics and countries <br>
+Assess whether higher treatment cost is associated with longer survival <br>
+Evaluate if higher cancer stages lead to greater treatment costs and reduced survival years <br>
 Examine whether higher genetic risk amplifies the negative effects of smoking on cancer severity and survival outcomes.
