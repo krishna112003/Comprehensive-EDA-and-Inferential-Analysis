@@ -5,10 +5,10 @@ The goal of this project is to harness the power of advanced analytics and healt
 By bridging the gap between raw healthcare data and data-driven decision-making, this project aims to demonstrate how analytics can support clinical understanding and strategic healthcare planning.
 
 # Project Objectives
-Ientify hidden trends and patterns.
-Visualize relationships between variables.
-Detect variations across countries, genders, age groups, and cancer stages.
-Analyze survival distributions and treatment costs.
+Ientify hidden trends and patterns.<br>
+Visualize relationships between variables.<br>
+Detect variations across countries, genders, age groups, and cancer stages.<br>
+Analyze survival distributions and treatment costs.<br>
 Study correlations between risk factors and cancer severity.
 # Key EDA Tasks
 Univariate Analysis,
